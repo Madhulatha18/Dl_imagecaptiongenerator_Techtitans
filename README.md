@@ -58,5 +58,3 @@ image-caption/
 5. **Open your browser:**
    Go to `http://127.0.0.1:5000/` to test it out!
 
-## License
-Feel free to use and modify!
