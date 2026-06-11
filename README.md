@@ -58,3 +58,4 @@ image-caption/
 5. **Open your browser:**
    Go to `http://127.0.0.1:5000/` to test it out!
 
+these are the details of the project
